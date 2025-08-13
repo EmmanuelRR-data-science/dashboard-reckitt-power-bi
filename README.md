@@ -12,18 +12,11 @@ Dashboard diseñado para visualizar y analizar ventas por producto, región, cat
 
 ---
 
-## Demo pública
-
-Accede al dashboard publicado en Power BI Service aquí:  
-[**Dashboard en Power BI**](URL_DE_TU_DASHBOARD)
-
----
-
 ## Vista General del Dashboard
 
 ### Hoja 1 - Menú Principal
 
-![Menú Principal](hoja1_menu.png)
+![Menú Principal](docs/hoja1_menu.png)
 
 Esta página contiene el logo de la empresa, título principal, íconos de información y ayuda con tooltips, botones de navegación a las demás páginas y slicers para filtrar por fechas, regiones, categorías y segmentos.
 
@@ -31,7 +24,7 @@ Esta página contiene el logo de la empresa, título principal, íconos de infor
 
 ### Hoja 2 - Ventas
 
-![Ventas](hoja2_ventas.png)
+![Ventas](docs/hoja2_ventas.png)
 
 Incluye cuatro KPIs clave: Ventas Totales, Total de Unidades, Ventas Promedio por Semana y Productos Totales Vendidos. Además, un mapa de calor con ticket promedio por segmento y una gráfica de línea con ventas totales por mes y año.
 
@@ -39,7 +32,7 @@ Incluye cuatro KPIs clave: Ventas Totales, Total de Unidades, Ventas Promedio po
 
 ### Hoja 3 - Regiones
 
-![Regiones](hoja3_regiones.png)
+![Regiones](docs/hoja3_regiones.png)
 
 Contiene cinco KPIs relacionados con regiones, una gráfica de radar y una gráfica de barras para analizar ventas por región.
 
@@ -47,7 +40,7 @@ Contiene cinco KPIs relacionados con regiones, una gráfica de radar y una gráf
 
 ### Hoja 4 - Productos
 
-![Productos](hoja4_productos.png)
+![Productos](docs/hoja4_productos.png)
 
 Muestra KPIs de productos, un gráfico de barras con porcentaje acumulado de ventas por producto y un mapa de calor de familias de productos más vendidos.
 
@@ -55,7 +48,7 @@ Muestra KPIs de productos, un gráfico de barras con porcentaje acumulado de ven
 
 ### Hoja 5 - Tendencias
 
-![Tendencias](hoja5_tendencias.png)
+![Tendencias](docs/hoja5_tendencias.png)
 
 Incluye slicers para regiones, productos y categorías, un gráfico de líneas apiladas mostrando ventas totales por producto a lo largo del periodo y un mapa de burbujas con total de unidades, ventas y ticket promedio por producto.
 
@@ -83,8 +76,4 @@ Todos los slicers y gráficos son interactivos. Por ejemplo, al seleccionar un p
 3. Personaliza según tus necesidades o datos.  
 
 ---
-
-## Contacto
-
-Emmanuel Ramírez Romero – [tu email o LinkedIn]
 
